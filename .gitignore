@@ -1,0 +1,3 @@
+.local/
+lazy-packages/
+*.lock
